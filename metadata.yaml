@@ -1,10 +1,16 @@
 _repo: Self-Knowledge-and-Guide-to-Sex-Instruction-Vital-facts-of-Life-for-All-Ages_47947
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47947-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Shannon, T. W.
     gutenberg_agent_id: '44541'
     url: http://www.gutenberg.org/2009/agents/44541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47947#Self-Knowledge-and-Guide-to-Sex-Instruction-Vital-facts-of-Life-for-All-Ages
 gutenberg_issued: '2015-01-11'
 gutenberg_type: Text
 identifiers:
